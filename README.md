@@ -1,6 +1,6 @@
 # NPM cheat sheet
 
-> SASS Compiler
+> SASS Compiler <a href="https://www.npmjs.com/package/sass">[LINK]</a>
 
 `$ [sudo] gem install sass`
 
@@ -14,7 +14,7 @@ When done:
 
 `Ctrl+C` via Terminal to exit watch
 
-> UglifyJS 2 Compress, Scramble, Beautify <a href="https://github.com/mishoo/UglifyJS2">LINK</a>
+> UglifyJS 2 Compress, Scramble, Beautify <a href="https://github.com/mishoo/UglifyJS2">[LINK]</a>
 
 `$ [sudo] npm install uglify-js -g`
 
@@ -26,7 +26,7 @@ To compress & mangle `main.js`
 
 `$ uglifyjs main.js -c -m -o main.min.js`
 
-> PurifyCSS A function that takes content (HTML/JS/PHP/etc) and CSS, and returns only the used CSS <a href="https://github.com/purifycss/purifycss">LINK</a>
+> PurifyCSS A function that takes content (HTML/JS/PHP/etc) and CSS, and returns only the used CSS <a href="https://github.com/purifycss/purifycss">[LINK]</a>
 
 `$ [sudo] npm install -g purify-css`
 
