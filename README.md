@@ -34,7 +34,7 @@ To compress & mangle `main.js`
 
 `$ pufifycss styles.scss index.html --info --out styles-new.scss`
 
-> BeautifyCSS A command-line CSS beautifier
+> BeautifyCSS A command-line CSS beautifier <a href="https://www.npmjs.com/package/beautify-css">[LINK]</a>
 
 `$ beautify-css [options] [input] [output]`
 
